@@ -72,6 +72,7 @@ x <!DOCTYPE html>
                 <h4>Kolumna 1</h4>
                 <p>Stan początkowy</p>
                 <p>Pierwszy wpis, poprawiony, dodany do poczekalni, ale zmodyfikowany resetem</p>
+                <p>ustalam push.default na simple</p>
 
             </div>
 
