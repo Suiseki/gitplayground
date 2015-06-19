@@ -71,10 +71,8 @@ x <!DOCTYPE html>
             <div class="col-xs-3">
                 <h4>Kolumna 1</h4>
                 <p>Stan początkowy</p>
-<<<<<<< HEAD
                 <p>Pierwszy wpis, poprawiony, dodany do poczekalni, ale zmodyfikowany resetem</p>
-=======
->>>>>>> d5f3759794b1d37cf089cdd5cdf7ce242d660ae1
+
             </div>
 
             <div class="col-xs-3">
