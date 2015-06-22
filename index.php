@@ -73,6 +73,7 @@ x <!DOCTYPE html>
                 <p>Stan początkowy</p>
                 <p>Pierwszy wpis, poprawiony, dodany do poczekalni, ale zmodyfikowany resetem</p>
                 <p>ustalam push.default na simple</p>
+                <h3>Naglowek 2 dział</h3>
 
             </div>
 
@@ -84,7 +85,7 @@ x <!DOCTYPE html>
                 
             </div>
 
-            <div class="col-xs-3">
+            <div class="col-xs-3">  
                 <h4>Kolumna 3</h4>
                 <p>Stan początkowy</p>
                 
