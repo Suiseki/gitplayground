@@ -79,6 +79,7 @@ x <!DOCTYPE html>
             <div class="col-xs-3">
                 <h4>Kolumna 2</h4>
                 <p>Stan początkowy</p>
+                <p>pierszy zapis w drugiej kolumnie</p>
                 
             </div>
 
