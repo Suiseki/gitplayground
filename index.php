@@ -87,7 +87,7 @@ x <!DOCTYPE html>
             <div class="col-xs-3">
                 <h4>Kolumna 3</h4>
                 <p>Stan początkowy</p>
-                
+                <p>User B wprowadza pierwszą zmianę</p>
             </div>
 
             <div class="col-xs-3">
