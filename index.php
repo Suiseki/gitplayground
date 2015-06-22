@@ -80,6 +80,7 @@ x <!DOCTYPE html>
                 <h4>Kolumna 2</h4>
                 <p>Stan początkowy</p>
                 <p>pierszy zapis w drugiej kolumnie</p>
+                <p>Zmiana wprowadzona na lokalnym branchu 'second-col'</p>
                 
             </div>
 
